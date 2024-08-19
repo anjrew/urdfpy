@@ -1,11 +1,11 @@
 lxml
 networkx
-numpy
+numpy==1.19.5
 pillow
 pycollada
 pyrender
 six
-trimesh
+trimesh==3.23.5
 sphinx
 sphinx_rtd_theme
 sphinx-automodapi
